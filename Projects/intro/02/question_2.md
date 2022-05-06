@@ -1,10 +1,18 @@
-작성날짜 : 2022-05-03
-아래 문제의 모든 실행환경은 
-Visual Studio 2022, 
-콘솔 앱 (.NET Framework), 
-.NET Framework 4.7.2
+<h4>
+작성날짜 : 2022-05-03.
 
-+-----[기초문제 2-1]-----+
+아래 문제의 모든 실행환경은 
+
+Visual Studio 2022, 
+
+콘솔 앱 (.NET Framework), 
+
+.NET Framework 4.7.2
+</h4>
+
+<h4> +-----[기초문제 2-1]-----+ </h4>
+
+```
 using System;
 
 namespace question_2
@@ -20,14 +28,17 @@ namespace question_2
         }
     }
 }
+```
 
-+-----[기초문제 2-2]-----+
+<h4> +-----[기초문제 2-2]-----+ </h4>
+<예상 내용 적어보기> 
 
 출력문
 abcde가나다라마qwerty
 
-+-----[기초문제 2-3]-----+
+<h4> +-----[기초문제 2-3]-----+ </h4>
 
+```
 using System;
 namespace questioneBasic_2_2
 {
@@ -42,13 +53,15 @@ namespace questioneBasic_2_2
         }
     }
 }
+```
 
-+-----[심화문제 2-1]-----+
+<h4> +-----[심화문제 2-1]-----+ </h4>
 무엇이 무엇이" 
 맨앞에 큰 따옴표 하나 써주기 
 
-+-----[심화문제 2-2]-----+
+<h4> +-----[심화문제 2-2]-----+ </h4>
 
+```
 using System;
 
 namespace question_2
@@ -62,3 +75,4 @@ namespace question_2
         }
     }
 }
+```
