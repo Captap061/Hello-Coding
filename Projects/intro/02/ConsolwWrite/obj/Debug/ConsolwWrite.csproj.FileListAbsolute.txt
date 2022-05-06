@@ -1,0 +1,8 @@
+C:\Projects\intro\02\ConsolwWrite\bin\Debug\ConsolwWrite.exe.config
+C:\Projects\intro\02\ConsolwWrite\bin\Debug\ConsolwWrite.exe
+C:\Projects\intro\02\ConsolwWrite\bin\Debug\ConsolwWrite.pdb
+C:\Projects\intro\02\ConsolwWrite\obj\Debug\ConsolwWrite.csproj.AssemblyReference.cache
+C:\Projects\intro\02\ConsolwWrite\obj\Debug\ConsolwWrite.csproj.SuggestedBindingRedirects.cache
+C:\Projects\intro\02\ConsolwWrite\obj\Debug\ConsolwWrite.csproj.CoreCompileInputs.cache
+C:\Projects\intro\02\ConsolwWrite\obj\Debug\ConsolwWrite.exe
+C:\Projects\intro\02\ConsolwWrite\obj\Debug\ConsolwWrite.pdb
