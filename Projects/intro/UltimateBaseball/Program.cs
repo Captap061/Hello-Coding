@@ -21,9 +21,16 @@ namespace UltimateBaseball
             int number1 = 3;
             int number2 = 1;
             int number3 = 9;
-            Console.WriteLine(3);
-            Console.WriteLine(1);
-            Console.WriteLine(9);
+            Console.WriteLine(number1);
+            Console.WriteLine(number2);
+            Console.WriteLine(number3);
+            Console.WriteLine("> 수비수가 다시 고른 숫자");
+            int number1 = 8;
+            int number2 = 2;
+            int number3 = 0;
+            Console.WriteLine(number1);
+            Console.WriteLine(number2);
+            Console.WriteLine(number3);
         }
     }
 }

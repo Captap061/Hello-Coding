@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\bin\Debug\Variable.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\bin\Debug\Variable.exe
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\bin\Debug\Variable.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\obj\Debug\Variable.exe
+C:\github-desktop\Hello-Coding\Projects\intro\04\Variable\obj\Debug\Variable.pdb
