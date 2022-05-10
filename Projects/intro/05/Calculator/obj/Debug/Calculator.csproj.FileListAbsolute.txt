@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\bin\Debug\Calculator.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\bin\Debug\Calculator.exe
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\bin\Debug\Calculator.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\obj\Debug\Calculator.exe
+C:\github-desktop\Hello-Coding\Projects\intro\05\Calculator\obj\Debug\Calculator.pdb

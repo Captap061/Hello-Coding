@@ -16,7 +16,7 @@ namespace UltimateBaseball
             Console.WriteLine("|   숫자만 맞고 순서가 틀리면 볼입니다.                 |");
             Console.WriteLine("|   숫자가 틀리면 아웃입니다.                           |");
             Console.WriteLine("+-------------------------------------------------------+");
-        
+
             Console.WriteLine("> 수비수가 고른 숫자");
             int number1 = 3;
             int number2 = 1;
@@ -31,6 +31,18 @@ namespace UltimateBaseball
             Console.WriteLine(number1);
             Console.WriteLine(number2);
             Console.WriteLine(number3);
+
+            Console.WriteLIne("> 첫 번째 숫자를 입력하세요.");
+            int quess1 = int.Parse(Console.ReadLine());
+            Console.WriteLIne("> 두 번째 숫자를 입력하세요.");
+            int quess1 = int.Parse(Console.ReadLine());
+            Console.WriteLIne("> 세 번째 숫자를 입력하세요.");
+            int quess1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("> 공격수가 고른 숫자");
+            Console.WriteLine(quess1);
+            Console.WriteLine(quess2);
+            Console.WriteLine(quess3);
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\bin\Debug\Echo.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\bin\Debug\Echo.exe
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\bin\Debug\Echo.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\obj\Debug\Echo.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\obj\Debug\Echo.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\obj\Debug\Echo.exe
+C:\github-desktop\Hello-Coding\Projects\intro\05\Echo\obj\Debug\Echo.pdb
