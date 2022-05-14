@@ -6,3 +6,11 @@ C:\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.SuggestedBi
 C:\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
 C:\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.exe
 C:\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\github-desktop\Hello-Coding\Projects\intro\UltimateBaseball\obj\Debug\UltimateBaseball.pdb

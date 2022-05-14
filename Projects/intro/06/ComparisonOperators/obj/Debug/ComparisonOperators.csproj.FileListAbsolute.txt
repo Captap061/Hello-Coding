@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\obj\Debug\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\github-desktop\Hello-Coding\Projects\intro\06\ComparisonOperators\obj\Debug\ComparisonOperators.pdb
