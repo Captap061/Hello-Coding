@@ -25,7 +25,7 @@ namespace UltimateBaseball
             Console.WriteLine(number2);
             Console.WriteLine(number3);
             Console.WriteLine("> 수비수가 다시 고른 숫자");
-            
+
             Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
             int guess1 = int.Parse(Console.ReadLine());
             Console.WriteLine("> 두 번째 숫자를 입력하세요.");
@@ -37,11 +37,6 @@ namespace UltimateBaseball
             Console.WriteLine(guess1);
             Console.WriteLine(guess2);
             Console.WriteLine(guess3);
-
-            int strikeCount = 0;
-            int ballCount = 0;
-
-            if (guess1 == number1)
         }
     }
 }
