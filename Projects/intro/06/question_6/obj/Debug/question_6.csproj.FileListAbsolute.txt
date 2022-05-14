@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\bin\Debug\question_6.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\bin\Debug\question_6.exe
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\bin\Debug\question_6.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\obj\Debug\question_6.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\obj\Debug\question_6.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\obj\Debug\question_6.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\obj\Debug\question_6.exe
+C:\github-desktop\Hello-Coding\Projects\intro\06\question_6\obj\Debug\question_6.pdb
