@@ -25,24 +25,23 @@ namespace UltimateBaseball
             Console.WriteLine(number2);
             Console.WriteLine(number3);
             Console.WriteLine("> 수비수가 다시 고른 숫자");
-            int number1 = 8;
-            int number2 = 2;
-            int number3 = 0;
-            Console.WriteLine(number1);
-            Console.WriteLine(number2);
-            Console.WriteLine(number3);
-
-            Console.WriteLIne("> 첫 번째 숫자를 입력하세요.");
-            int quess1 = int.Parse(Console.ReadLine());
-            Console.WriteLIne("> 두 번째 숫자를 입력하세요.");
-            int quess1 = int.Parse(Console.ReadLine());
-            Console.WriteLIne("> 세 번째 숫자를 입력하세요.");
-            int quess1 = int.Parse(Console.ReadLine());
+            
+            Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
+            int guess1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("> 두 번째 숫자를 입력하세요.");
+            int guess2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("> 세 번째 숫자를 입력하세요.");
+            int guess3 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("> 공격수가 고른 숫자");
-            Console.WriteLine(quess1);
-            Console.WriteLine(quess2);
-            Console.WriteLine(quess3);
+            Console.WriteLine(guess1);
+            Console.WriteLine(guess2);
+            Console.WriteLine(guess3);
+
+            int strikeCount = 0;
+            int ballCount = 0;
+
+            if (guess1 == number1)
         }
     }
 }
