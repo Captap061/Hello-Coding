@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\bin\Debug\DoorkLock_6Num.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\bin\Debug\DoorkLock_6Num.exe
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\bin\Debug\DoorkLock_6Num.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\obj\Debug\DoorkLock_6Num.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\obj\Debug\DoorkLock_6Num.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\obj\Debug\DoorkLock_6Num.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\obj\Debug\DoorkLock_6Num.exe
+C:\github-desktop\Hello-Coding\Projects\intro\07\DoorkLock_6Num\obj\Debug\DoorkLock_6Num.pdb
