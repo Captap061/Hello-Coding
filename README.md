@@ -14,6 +14,6 @@
 |2022-05-06(금)|[chapter 3](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/03)|[question_3](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/03/question_3.md)|[note03](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/03/note03.md)|
 |2022-05-09(월)|[chapter 4](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/04)|[question_4](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/04/question_4/Program.cs)|[note04](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/04/note04.md)|
 |2022-05-10(화)|[chapter 5](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/05)|[question_5](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/05/question_5/Program.cs)|[note05](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/05/note05.md)|
-|2022-05-15(일)|[chapter 6](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/06)|[question_6](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/06)|[note06](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/06/note06.md)|
-
+|2022-05-15(일)|[chapter 6](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/06)|[question_6](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/06/question_6)|[note06](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/06/note06.md)|
+|2022-05-21(일)|[chapter 7](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/07)|[question_7](https://github.com/Captap061/Hello-Coding/tree/main/Projects/intro/07/question_7)|[note07](https://github.com/Captap061/Hello-Coding/blob/main/Projects/intro/07/note07.md)|
 ---
