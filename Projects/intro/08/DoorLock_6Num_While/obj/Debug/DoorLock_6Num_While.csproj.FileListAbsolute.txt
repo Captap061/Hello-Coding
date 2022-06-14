@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.exe
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\bin\Debug\DoorLock_6Num_While.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.exe
+C:\github-desktop\Hello-Coding\Projects\intro\08\DoorLock_6Num_While\obj\Debug\DoorLock_6Num_While.pdb

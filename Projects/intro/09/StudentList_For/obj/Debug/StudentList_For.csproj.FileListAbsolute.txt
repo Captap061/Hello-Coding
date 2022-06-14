@@ -1,0 +1,8 @@
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\bin\Debug\StudentList_For.exe.config
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\bin\Debug\StudentList_For.exe
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\bin\Debug\StudentList_For.pdb
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\obj\Debug\StudentList_For.csproj.AssemblyReference.cache
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\obj\Debug\StudentList_For.csproj.SuggestedBindingRedirects.cache
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\obj\Debug\StudentList_For.csproj.CoreCompileInputs.cache
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\obj\Debug\StudentList_For.exe
+C:\github-desktop\Hello-Coding\Projects\intro\09\StudentList_For\obj\Debug\StudentList_For.pdb

@@ -18,63 +18,65 @@ namespace UltimateBaseball
             Console.WriteLine("+-------------------------------------------------------+");
 
             Console.WriteLine("> 수비수가 고른 숫자");
-            int number1 = 3;
-            int number2 = 1;
-            int number3 = 9;
-            Console.WriteLine(number1);
-            Console.WriteLine(number2);
-            Console.WriteLine(number3);
-            Console.WriteLine("> 수비수가 다시 고른 숫자");
+            int[] numbers = {3, 1, 9};
+            
+            for (int i= 0; i < 3; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
+            int[] guesses = new int[3];
+            string[] inputMessages = { "> 첫 번째 숫자를 입력하세요.",
+                "> 두 번째 숫자를 입력하세요." , "> 세 번째 숫자를 입력하세요." };
+            // 화면에 출력할 안내문을 배열로 만든 것
 
-            Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
-            int guess1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 두 번째 숫자를 입력하세요.");
-            int guess2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 세 번째 숫자를 입력하세요.");
-            int guess3 = int.Parse(Console.ReadLine());
+            while (true)
+            {
+            for (int i= 0; i < 3; i++)
+                {
+                    Console.WriteLine(inputMessages[i]);
+                    guesses[i] = int.Parse(Console.ReadLine());
+                }
+            // i값에 따라서 출력하는 문자열이 달라진다는 것만 알면 된다
+            // 사용자 입력을 받아서 guesses 배열에 넣어준다.
 
             Console.WriteLine("> 공격수가 고른 숫자");
-            Console.WriteLine(guess1);
-            Console.WriteLine(guess2);
-            Console.WriteLine(guess3);
+            
+            for (int i =0; i < 3; i++ )
+                {
+                    Console.WriteLine(guesses[i]);
+                }
 
-            if (guess1 == guess2 || guess1 == guess3 || guess2 == guess3)
+            if (guesses[0] == guesses[1] || guesses[0] == guesses[2] || guesses[1] == guesses[2])
             {
                 Console.WriteLine("같은 숫자를 입력하면 안 됩니다.");
+                continue;
             }
-            else
-            {
 
             int strikeCount = 0;
             int ballCount = 0;
 
-            if (guess1 == number1)
-
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guess1 == number1 || guess1 == number3)
-            {
-                ballCount = ballCount + 1; ;
-            }
-
-            if (guess2 == number2)
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guess2 == number1 || guess2 == number3)
-            {
-                ballCount = ballCount + 1; ;
-            }
-
-            if (guess3 == number3)
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guess3 == number1 || guess3 == number2)
-            {
-                ballCount = ballCount + 1; ;
-            }
+            for (int i =0; i <3; i++)
+                {
+                    for (int j =0; j < 3; j++)
+                        // 초기화 코드에서 사용한 변수가 j란 것만 봐도 이중 for문이란걸 알 수 있다
+                    {
+                        if (guesses[i] == numbers[j])
+                        // 공격수와 수비수가 고른 숫자가 같은 지 확인
+                        {
+                            if (i == j)
+                            // 둘 다 공격수, 수비수의 숫자 자리를 가리키는 인덱스 
+                            // 비교만으로 스트라이크, 볼 구분이 가능하다
+                            // 같다면 스트라이크, 다르면 볼의 카운트 증가
+                            {
+                                strikeCount++;
+                            }
+                            else
+                            {
+                                ballCount++;
+                            }
+                        }
+                    }
+                }
 
             Console.Write("스트라이크: ");
             Console.WriteLine(strikeCount);
@@ -82,6 +84,12 @@ namespace UltimateBaseball
             Console.WriteLine(ballCount);
             Console.Write("아웃: ");
             Console.WriteLine(3 - strikeCount - ballCount);
+
+            if (strikeCount ==3)
+                {
+                    Console.WriteLine("정답입니다.");
+                    break;
+                }
             }
         }
     }
