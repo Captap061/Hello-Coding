@@ -19,25 +19,32 @@ namespace UltimateBaseball
 
             Console.WriteLine("> 수비수가 고른 숫자");
             int[] numbers = {3, 1, 9};
-            Console.WriteLine(numbers[0]);
-            Console.WriteLine(numbers[1]);
-            Console.WriteLine(numbers[2]);
-
+            
+            for (int i= 0; i < 3; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
             int[] guesses = new int[3];
+            string[] inputMessages = { "> 첫 번째 숫자를 입력하세요.",
+                "> 두 번째 숫자를 입력하세요." , "> 세 번째 숫자를 입력하세요." };
+            // 화면에 출력할 안내문을 배열로 만든 것
 
             while (true)
             {
-            Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
-            guesses[0] = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 두 번째 숫자를 입력하세요.");
-            guesses[1] = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 세 번째 숫자를 입력하세요.");
-            guesses[2] = int.Parse(Console.ReadLine());
+            for (int i= 0; i < 3; i++)
+                {
+                    Console.WriteLine(inputMessages[i]);
+                    guesses[i] = int.Parse(Console.ReadLine());
+                }
+            // i값에 따라서 출력하는 문자열이 달라진다는 것만 알면 된다
+            // 사용자 입력을 받아서 guesses 배열에 넣어준다.
 
             Console.WriteLine("> 공격수가 고른 숫자");
-            Console.WriteLine(guesses[0]);
-            Console.WriteLine(guesses[1]);
-            Console.WriteLine(guesses[2]);
+            
+            for (int i =0; i < 3; i++ )
+                {
+                    Console.WriteLine(guesses[i]);
+                }
 
             if (guesses[0] == guesses[1] || guesses[0] == guesses[2] || guesses[1] == guesses[2])
             {
@@ -48,30 +55,28 @@ namespace UltimateBaseball
             int strikeCount = 0;
             int ballCount = 0;
 
-            if (guesses[0] == numbers[0])
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guesses[0] == numbers[1] || guesses[0] == numbers[2])
-            {
-                ballCount = ballCount + 1; ;
-            }
-            if (guesses[1] == numbers[1])
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guesses[1] == numbers[0] || guesses[1] == numbers[2])
-            {
-                ballCount = ballCount + 1; ;
-            }
-            if (guesses[2] == numbers[2])
-            {
-                strikeCount = strikeCount + 1;
-            }
-            else if (guesses[2] == numbers[0] || guesses[2] == numbers[1])
-            {
-                ballCount = ballCount + 1; ;
-            }
+            for (int i =0; i <3; i++)
+                {
+                    for (int j =0; j < 3; j++)
+                        // 초기화 코드에서 사용한 변수가 j란 것만 봐도 이중 for문이란걸 알 수 있다
+                    {
+                        if (guesses[i] == numbers[j])
+                        // 공격수와 수비수가 고른 숫자가 같은 지 확인
+                        {
+                            if (i == j)
+                            // 둘 다 공격수, 수비수의 숫자 자리를 가리키는 인덱스 
+                            // 비교만으로 스트라이크, 볼 구분이 가능하다
+                            // 같다면 스트라이크, 다르면 볼의 카운트 증가
+                            {
+                                strikeCount++;
+                            }
+                            else
+                            {
+                                ballCount++;
+                            }
+                        }
+                    }
+                }
 
             Console.Write("스트라이크: ");
             Console.WriteLine(strikeCount);
@@ -80,7 +85,7 @@ namespace UltimateBaseball
             Console.Write("아웃: ");
             Console.WriteLine(3 - strikeCount - ballCount);
 
-            if ( guesses[0] == numbers[0] && guesses[1] == numbers[1] && guesses[2] == numbers[2])
+            if (strikeCount ==3)
                 {
                     Console.WriteLine("정답입니다.");
                     break;
